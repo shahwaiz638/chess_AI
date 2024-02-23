@@ -27,7 +27,4 @@ This project implements a chess game where you can play against the computer, wh
 
 Contributions to improve the game's features, optimize the algorithm, or fix bugs are welcome. Feel free to fork the repository and submit pull requests.
 
-## Credits
-
-This project is developed by Shahwaiz Memon
 
