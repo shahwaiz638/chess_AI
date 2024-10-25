@@ -1,4 +1,4 @@
-# Chess Game with Min-Max Algorithm and Alpha-Beta Pruning
+# Chess Game using Reinforcement Learning with Min-Max Algorithm and Alpha-Beta Pruning
 
 This project implements a chess game where you can play against the computer, which uses the Min-Max Algorithm with Alpha-Beta Pruning to make its moves.
 
